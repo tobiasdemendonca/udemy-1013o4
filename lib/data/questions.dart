@@ -1,4 +1,4 @@
-import 'package:udemy_1013o4/models/quiz_question.dart';
+import 'package:adv_basics/models/quiz_question.dart';
 
 const questions = [
   QuizQuestion(
